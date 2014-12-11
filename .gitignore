@@ -1,0 +1,28 @@
+# scm revert files
+**.orig
+
+# Mac finder artifacts
+.DS_Store
+
+# Netbeans project directory
+/nbproject/
+
+# RubyMine project files
+.idea
+
+# Textmate project files
+/*.tmproj
+
+# vim artifacts
+**.swp
+
+# vagrant
+/.vagrant
+
+.vagrant
+
+# Bundler
+bin/*
+.bundle/*
+
+Berksfile.lock
